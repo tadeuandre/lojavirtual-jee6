@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-jboss-as:deploy</actionName>
+            <displayName>jboss-as:deploy</displayName>
+            <goals>
+                <goal>jboss-as:deploy</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-jboss-as:undeploy</actionName>
+            <displayName>jboss-as:undeploy</displayName>
+            <goals>
+                <goal>jboss-as:undeploy</goal>
+            </goals>
+        </action>
+    </actions>
