@@ -11,7 +11,8 @@
         <module>lojavirtual-javaee6-model</module>
         <module>lojavirtual-javaee6-registry</module>
         <module>lojavirtual-javaee6-web</module>
-    </modules>
+    <module>lojavirtual-javaee6-compras</module>
+  </modules>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
